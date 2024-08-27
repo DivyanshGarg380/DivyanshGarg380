@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DivyanshGarg380
+- 👋 Hi, I’m @Divyansh Garg
 - 👀 I’m interested in developing games
 - 🌱 I’m currently learning C
 - 📫 You can reach me on my gmail : HIMYNAMEISDIVYANSH@GMAIL.COM
